@@ -1,3 +1,9 @@
 email,firstname,lastname,employee_id,skype_id,blog_author_name,phone,github_id,aws_id,trello_id,date_joined,employment_type,is_active
-steinitz@qxf2.com,Wilhelm,Steinitz,WorldChamp001,wilihelm.steinitz.qxf2,user1,188621894,steinitz_qxf2,123456789,steinitzqxf21,01-Feb-86,full,Y
-lasker@qxf2.com,Emmanuel,Lasker,WorldChamp002,emmanuel.lasker.qxf2,user2,189421921,lasker_qxf2,223456789,laskerqxf21,01-Mar-94,full,Y
+generoustaker@qxf2.com,Generous,Taker,2,generous.taker.qxf2,user1,9999999999,generous.taker.qxf2,123456789,test1.trello,01-Apr-1970,full,Y
+inactive_user@qxf2.com,Inactive,User,3,inactive.user.qxf2,user2,9191919191,inactive.user.qxf2,23456789,test2.trello,02-Mar-1969,full,N
+slow_learner@qxf2.com,Slow,Learner,5,smart.learner.qxf2,user3,9191292929,smart.learner.qxf2,3445456564,test3.trello,25-Feb-1977,full,Y
+smart_learner@qxf2.com,Smart,Learner,4,slow.learner.qxf2,user4,3926545623,slow.learner.qxf2,445545466,test4.trello,04-Sept-1976,full,Y
+use_this_email_to_find_me@qxf2.com,Use my email,find me,6,find.me.qxf2,user5,4545454545,find.me.qxf2,4464646,test5.trello,03-Aug-1980,full,Y
+user_to_be_deleted@qxf2.com,Use my ID,Delete me,7,user.delete.qxf2,user6,7070707075,user.delete.qxf2,534344,test6.trello,28-July-1975,full,N
+generousgiver@qxf2.com,Generous,Giver,1,generous.giver.qxf2,user7,46565947405,generous.giver.qxf2,34343434,test7.trello,03-Dec-1980,full,Y
+user_status_to_be_updated@qxf2.com,Update,My Status,8,update.status.qxf2,user8,452102905686,update.status.qxf2,34343435,test8.trello,15-Aug-1986,full,N
